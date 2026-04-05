@@ -18,7 +18,7 @@ export function ServicesSection({ openSchedule }: { openSchedule: () => void }) 
           <SectionTitle
             eyebrow="Atendimentos"
             title="Para diferentes fases da vida e diferentes formas de cuidado"
-            text="Os cards organizam os serviços de forma clara e sofisticada, ajudando o visitante a se reconhecer mais rápido no site."
+            text=""
           />
         </Reveal>
 
