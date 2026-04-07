@@ -62,11 +62,9 @@ export function HeroSection({
                           className="max-w-[170px] text-[34px] leading-[0.95] text-white sm:max-w-[210px] sm:text-[48px] md:max-w-[250px] md:text-[60px]"
                           style={{ fontFamily: 'Georgia, "Times New Roman", serif' }}
                         >
-                          Equilíbrio,
+                      
                           <br />
-                          presença
-                          <br />
-                          e cuidado
+                        
                         </h3>
                       </div>
                     </div>
